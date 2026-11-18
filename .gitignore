@@ -1,0 +1,6 @@
+/scraper/.env
+/scraper/logs
+/scraper/login_state.json
+env
+.vscode
+/scraper/__pycache__
